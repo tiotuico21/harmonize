@@ -10,7 +10,7 @@ from harmonize  import errors, logging
 class ShouldCompile(Enum):
     ALWAYS = 1
     NEVER  = 2
-
+#this is a test comment
 #: [default False] If `True`, compiles runtime code with debugging symbols.
 """
 Test A

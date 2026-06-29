@@ -2,7 +2,7 @@
 
 using namespace util;
 
-#this is a small change - ryan
+// this is a small change - ryan
 struct Step;
 
 struct MyDeviceState
